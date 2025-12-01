@@ -1,0 +1,6 @@
+tag_id,tag_column_name,comment,language_id
+optional_plural,overabundance_tag,form that does not contain a marker for plural (that is there in other forms with the same scenario),lamkang
+default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",lamkang
+unspec_var,paradigm_tag,variant of (yet) unspecified distribution,lamkang
+past,tense_tag,past tense paradigm,lamkang
+sociolect_var,variants_tag,form from other sociolect,lamkang
