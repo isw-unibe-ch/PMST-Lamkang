@@ -21,8 +21,10 @@ cell_id,POS,label,language_id
 1.pl.excl.3.sg.fut.neg,verb,1PL.EXCL>3SG.FUT.NEG,lamkang
 1.pl.excl.3.sg.nfut.aff,verb,1PL.EXCL>3SG.NFUT.AFF,lamkang
 1.pl.excl.3.sg.nfut.neg,verb,1PL.EXCL>3SG.NFUT.NEG,lamkang
-1.pl.fut.aff,verb,1PL.FUT.AFF,lamkang
-1.pl.fut.neg,verb,1PL.FUT.NEG,lamkang
+1.pl.excl.fut.aff,verb,1PL.EXCL.FUT.AFF,lamkang
+1.pl.excl.fut.neg,verb,1PL.EXCL.FUT.NEG,lamkang
+1.pl.excl.nfut.aff,verb,1PL.EXCL.NFUT.AFF,lamkang
+1.pl.excl.nfut.neg,verb,1PL.EXCL.NFUT.NEG,lamkang
 1.pl.incl.3.pl.fut.aff,verb,1PL.INCL>3PL.FUT.AFF,lamkang
 1.pl.incl.3.pl.fut.neg,verb,1PL.INCL>3PL.FUT.NEG,lamkang
 1.pl.incl.3.pl.nfut.aff,verb,1PL.INCL>3PL.NFUT.AFF,lamkang
@@ -31,8 +33,10 @@ cell_id,POS,label,language_id
 1.pl.incl.3.sg.fut.neg,verb,1PL.INCL>3SG.FUT.NEG,lamkang
 1.pl.incl.3.sg.nfut.aff,verb,1PL.INCL>3SG.NFUT.AFF,lamkang
 1.pl.incl.3.sg.nfut.neg,verb,1PL.INCL>3SG.NFUT.NEG,lamkang
-1.pl.nfut.aff,verb,1PL.NFUT.AFF,lamkang
-1.pl.nfut.neg,verb,1PL.NFUT.NEG,lamkang
+1.pl.incl.fut.aff,verb,1PL.INCL.FUT.AFF,lamkang
+1.pl.incl.fut.neg,verb,1PL.INCL.FUT.NEG,lamkang
+1.pl.incl.nfut.aff,verb,1PL.INCL.NFUT.AFF,lamkang
+1.pl.incl.nfut.neg,verb,1PL.INCL.NFUT.NEG,lamkang
 1.sg.2.pl.fut.aff,verb,1SG>2PL.FUT.AFF,lamkang
 1.sg.2.pl.fut.neg,verb,1SG>2PL.FUT.NEG,lamkang
 1.sg.2.pl.nfut.aff,verb,1SG>2PL.NFUT.AFF,lamkang

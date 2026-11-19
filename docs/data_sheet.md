@@ -9,15 +9,15 @@ Others who contributed to this document: Shobhana Chelliah, Rex Rengpu Khullar
 
 # Motivation
 
-**For what purpose was the dataset created?**
+**For what purpose was the data set created?**
 
 This data set was created to investigate the dynamics of person marking in Lamkang and other South-Central Trans-Himalayan languages.
-Further background and motivation can be found in Auderset et al. (in prep).
+Further background and motivation can be found in Auderset et al. 2026. Full citation: Auderset, Sandra \& Brown, Hunter L. \& Reich, Jonathan \& Gerber, Pascal \& Zakaria, Muhammad \& Konnerth, Linda. 2026. A Database of Person Marking in South-Central Trans-Himalayan. Journal of Open Humanities Data 12(1), 58. (doi:https://doi.org/10.5334/johd.505).
 
 **Who created the data set (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?**
 
 The data set was created by a team of researchers at the Department of Linguistics at the University of Bern (PI Linda Konnerth) in collaboration with local linguists and language experts in Northeast India.
-This Lamkang dataset consists of data published by the following research team in this journal article:
+This Lamkang data set consists of data published by the following research team in this journal article:
 Chelliah, Shobhana L., David A. Peterson, Tyler P. Utt, and Evaline Blair. 2019. “Lamkang Verb Conjugation.” Himalayan Linguistics 18 (1): 8-25. doi.org/10.5070/H918143199
 
 **Who funded the creation of the data set?**
@@ -27,9 +27,9 @@ This work is funded by SNSF (Swiss National Science Foundation) Grant 10000946 t
 
 # Composition
 
-This Paralex dataset documents paradigms of inflected verb forms as well as pronouns.
+This Paralex data set documents paradigms of inflected verb forms as well as pronouns.
 
-**Are forms given as orthographic, phonetic, and or phonemic sequences ?** 
+**Are forms given as orthographic, phonetic, and/or phonemic sequences?**
 
 Forms are provided as orthographic and phonemic sequences.
 The orthography is either the practical one used by the community or a version of the IPA used by linguists and language experts.
@@ -37,89 +37,80 @@ For Lamkang, it is a version of the community orthography used by speakers.
 
 **How many instances are there in total?**
 
--   Number of inflected forms: 298
+* Number of inflected forms: 305
+* Number of unique inflected forms: 176
+* Number of unique scenarios (person, number, TAM, polarity combinations): 162
+* Number of inflected forms per paradigm and subparadigm:
 
--   Number of unique inflected forms: 169
-
--   Number of unique scenarios (person, number, TAM, polarity combinations): 158
-
--   Number of inflected forms per paradigm and subparadigm:
-
-| **Paradigm** | **n** | **Tags**           | **n** |
-|--------------|------:|--------------------|------:|
-| Pronouns     |     6 | default            |     6 |
-| NFUT.AFF     |    91 | default            |    38 |
-|              |       | past               |    37 |
-|              |       | past, opt.pl       |     1 |
-|              |       | unspec.var         |    11 |
-|              |       | unspec.var, past   |     2 |
-|              |       | sociolect.var      |     2 |
-| NFUT.NEG     |    94 | default            |    36 |
-|              |       | past               |    37 |
-|              |       | opt.pl             |     2 |
-|              |       | past, opt.pl       |     1 |
-|              |       | unspec.var         |    12 |
-|              |       | unspec.var, past   |     6 |
-| FUT.AFF      |    61 | default            |    38 |
-|              |       | unspec.var         |    22 |
-|              |       | unspec.var, opt.pl |     1 |
-| FUT.NEG      |    46 | default            |    38 |
-|              |       | unspec.var         |     4 |
-|              |       | unspec.var, opt.pl |     4 |
+|paradigm |variants_tag  |paradigm_tag |overabundance_tag |  n|
+|:--------|:-------------|:------------|:-----------------|--:|
+|pron     |unspecified   |             |                  |  6|
+|fut.aff  |unspecified   |             |optional_plural   |  1|
+|fut.aff  |unspecified   |             |                  | 61|
+|fut.neg  |unspecified   |             |optional_plural   |  4|
+|fut.neg  |unspecified   |             |                  | 43|
+|nfut.aff |sociolect_var |             |                  |  2|
+|nfut.aff |unspecified   |pfv          |optional_plural   |  1|
+|nfut.aff |unspecified   |pfv          |                  | 40|
+|nfut.aff |unspecified   |             |                  | 50|
+|nfut.neg |unspecified   |pfv          |optional_plural   |  1|
+|nfut.neg |unspecified   |pfv          |                  | 44|
+|nfut.neg |unspecified   |             |optional_plural   |  2|
+|nfut.neg |unspecified   |             |                  | 50|
 
 
 **Language varieties**
 
--   BCP-47 language tag: NA
--   Glottocode: lamk1238
+* BCP-47 language tag: NA
+* Glottocode: lamk1238
 
-**Does the data pertain to specific dialects, geographical locations, genre, etc ?**
+**Does the data pertain to specific dialects, geographical locations, genre, etc?**
 
-The data was taken primarily from published sources. The data presented there was collected in the state of Manipur, Chandel district.
+The data was taken primarily from published sources. The data presented there was collected in the state of Manipur (Northeast India), Chandel district.
 
-**Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
+**Does the data set contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?**
 
-The dataset contains all person forms found in the language, both verbal indexes and pronouns. Hortative forms were not included in the dataset (see below for explanation).
+The data set contains all person forms found in the language, both verbal indexes and pronouns. Hortative forms were not included in the data set.
 
-**Is any information missing from individual instances?** 
-
-No.
-
-**Are there any errors, sources of noise, or redundancies in the dataset?** 
+**Is any information missing from individual instances?**
 
 No.
 
-**Is the dataset self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other datasets)?** 
+**Are there any errors, sources of noise, or redundancies in the data set?**
 
-The dataset is self-contained.
+No.
 
-**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionnaries), were there any complex decisions in the matching of entries from this dataset to those of the vocabularies (eg. inexact language code) ?**
+**Is the data set self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other data sets)?**
+
+The data set is self-contained.
+
+**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionnaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code)?**
 
 NA
 
-**Does the dataset contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
+**Does the data set contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
 
-The dataset pertains to small or indigenous language communities, namely those of the Lamkang people in Manipur.
+The data set pertains to small or indigenous language communities, namely those of the Lamkang people in Manipur.
 The data are taken from published sources.
 
 
-# Collection process.
+# Collection process
 
-**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other datasets ?** 
+**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any? Are any information derived from other data sets?**
 
 The data comes primarily from published sources. Some forms were checked and/or elicited with native speaker Rex Khullar. Segmentation was based on the published sources but adjusted to our design principles by Jonathan Reich.
 
 **How were paradigms separated (eg. in the case of homonyms or variants)? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
 **How was the paradigm structure (set and labels of paradigm cells) decided? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
-**What is the expertise of the contributors with the documented language ?** 
+**What is the expertise of the contributors with the documented language?**
 
-Jonathan Reich: linguist specializing in South-Central Trans-Himalayan morphosyntax
+Jonathan Reich: linguist specializing in South-Central Trans-Himalayan
 
 Rex Khullar: native speaker and community language documenter
 
@@ -129,18 +120,18 @@ Shobhana Chelliah: linguist and specialist in South-Central Trans-Himalayan lang
 
 Only the contributors listed at the beginning of this file.
 
-**Over what timeframe was the data collected?** 
+**Over what timeframe was the data collected?**
 
 Please consult the published sources for details.
 
 
-# Preprocessing/cleaning/labeling.
+# Preprocessing/cleaning/labeling
 
-**How were the inflected forms obtained ?**
+**How were the inflected forms obtained?**
 
-All forms were collected from speakers. See above.
+All forms were collected from speakers (see above).
 
-**How were the phonological or phonemic transcriptions obtained?** 
+**How were the phonological or phonemic transcriptions obtained?**
 
 The phonological transcriptions were generated with the qlcData package in R using an orthography profile that maps graphemes to IPA.
 The mappings are based on the phonological analysis of the language.
@@ -149,51 +140,51 @@ The mappings are based on the phonological analysis of the language.
 
 Manually based on expert knowledge.
 
-**Was any preprocessing/cleaning/labeling of the data done (for example, discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values, cleaning of labels, mapping between vocabularies, etc)?** 
+**Was any preprocessing/cleaning/labeling of the data done (for example, discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values, cleaning of labels, mapping between vocabularies, etc)?**
 
 No.
 
 **Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (for example, to support unanticipated future uses)?**
 
-Yes, the underlying data of the published sources is partially archived and available at CORSAL (https://digital.library.unt.edu/explore/collections/SAALT/).
+Yes, the underlying data of the published sources is partially archived and available on CoRSAL at https://digital.library.unt.edu/explore/collections/SAALT/.
 
-**Is the software that was used to preprocess/clean/label the data available?** 
+**Is the software that was used to preprocess/clean/label the data available?**
 
 The data was prepared for Paralex with the open source software R using RStudio.
 
 
 # Uses
 
-**Has the dataset been used for any published work already?** 
+**Has the data set been used for any published work already?**
 
 Yes, the underlying data was used in Chelliah et al. 2019 (see sources.bib).
 
-**What (other) tasks could the dataset be used for?**
+**What (other) tasks could the data set be used for?**
 
 It can be used for descriptive and comparative analyses.
 
-**Are there tasks for which the dataset should not be used?**
+**Are there tasks for which the data set should not be used?**
 
 No.
 
 
-# Distribution.
+# Distribution
 
-**Will the dataset be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the dataset was created?**
+**Will the data set be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the data set was created?**
 
 No.
 
-**How will the dataset be distributed (for example, tarball on website, API, GitHub)?** 
+**How will the data set be distributed (for example, tarball on website, API, GitHub)?**
 
-The dataset is available on GitHub at X and on Zenodo as part of the Paralex collection at X.
+The data set is available on GitHub at https://github.com/isw-unibe-ch and on Zenodo as part of the Paralex collection at https://doi.org/10.5281/zenodo.17881855.
 
-**Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
+**Will the data set be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?**
 
-The dataset is distributed under a CC-BY-SA 4.0 license.
+The data set is distributed under a CC-BY-SA 4.0 license.
 
 
 # Maintenance
 
-**If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?** 
+**If others want to extend/augment/build on/contribute to the data set, is there a mechanism for them to do so?**
 
 For suggestions or error reports please open an issue on GitHub.

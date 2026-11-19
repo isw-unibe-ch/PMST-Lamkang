@@ -1,4 +1,4 @@
-lexeme_id,POS,meaning,language_id
-no_stem,pronoun,,lamkang
-abstract_entry,verb,,lamkang
-ííp,verb,sleep,lamkang
+lexeme_id,POS,label,meaning,language_id
+no_stem,pronoun,,,lamkang
+abstract_entry,verb,Σ,,lamkang
+iip,verb,"ííp, iip, ’ii",sleep,lamkang
