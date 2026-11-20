@@ -10,6 +10,7 @@ theme:
 plugins:
   - paralex:
       paralex_package_path: "pmst-lamkang.package.json"
+      compress: false
       layout_tables:
         - tense_aspect
       layout_rows:
