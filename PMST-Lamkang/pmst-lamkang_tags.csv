@@ -1,0 +1,5 @@
+tag_id,tag_column_name,comment,language_id
+optional_plural,overabundance_tag,form does not contain a marker for plural (that is there in other forms with the same scenario),lamkang
+pfv,paradigm_tag,form is part of the perfective paradigm,lamkang
+sociolect_var,variants_tag,form is from other sociolect,lamkang
+unspecified,variants_tag,form is not used in special contexts,lamkang

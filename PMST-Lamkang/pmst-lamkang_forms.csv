@@ -1,0 +1,306 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,paradigm_tag,overabundance_tag,source,page,language_id
+lamkang001,no_stem,1.sg,nei,nei,nei,n e i,n e i,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang002,no_stem,1.pl,nèèn,nèèn,nè+èn,n e ¹ e ¹ n,n e ¹ + e ¹ n,unspecified,,,Chelliah2019Lamkang,19,lamkang
+lamkang003,no_stem,2.sg,nàŋ,nàŋ,nàŋ,n a ¹ ŋ,n a ¹ ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang004,no_stem,2.pl,nààn,nààn,nà+àn,n a ¹ a ¹ n,n a ¹ + a ¹ n,unspecified,,,Chelliah2019Lamkang,16,lamkang
+lamkang005,no_stem,3.sg,mà,mà,mà,m a ¹,m a ¹,unspecified,,,Chelliah2019Lamkang,16,lamkang
+lamkang006,no_stem,3.pl,máán,máán,má+án,m a ⁵ a ⁵ n,m a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,16,lamkang
+lamkang007,iip,1.sg.fut.aff,ííp nìk-dìh,Σ nìk-dìh,Σ+nìk+dìh,Σ n i ¹ k d i ¹,Σ + n i ¹ k + d i ¹,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang008,iip,1.sg.fut.aff,ííp nì,Σ nì,Σ+nì,Σ n i ¹,Σ + n i ¹,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang009,iip,1.pl.incl.fut.aff,t’ii raan,tΣ raan,t+Σ+ra+an,t Σ r a a n,t + Σ + r a + a n,unspecified,,,Khullar2026Lamkang,nopage,lamkang
+lamkang010,iip,1.pl.excl.fut.aff,ííp nìk-áán-dìh,Σ nìk-áán-dìh,Σ+nìk+áán+dìh,Σ n i ¹ k aa ⁵ n d i ¹,Σ + n i ¹ k + aa ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang011,iip,1.pl.excl.fut.aff,ííp nìk-áán,Σ nìk-áán,Σ+nìk+áán,Σ n i ¹ k aa ⁵ n,Σ + n i ¹ k + aa ⁵ n,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang012,abstract_entry,1.sg.2.sg.fut.aff,a-Σ nìk-dìh,a-Σ nìk-dìh,a+Σ+nìk+dìh,a Σ n i ¹ k d i ¹,a + Σ + n i ¹ k + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang013,abstract_entry,1.sg.2.sg.fut.aff,a-Σ nì,a-Σ nì,a+Σ+nì,a Σ n i ¹,a + Σ + n i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang014,abstract_entry,1.sg.2.pl.fut.aff,a-Σ nìk-áán-dìh,a-Σ nìk-áán-dìh,a+Σ+nìk+áán+dìh,a Σ n i ¹ k aa ⁵ n d i ¹,a + Σ + n i ¹ k + aa ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang015,abstract_entry,1.sg.2.pl.fut.aff,a-Σ nìk-áán,a-Σ nìk-áán,a+Σ+nìk+áán,a Σ n i ¹ k aa ⁵ n,a + Σ + n i ¹ k + aa ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang016,abstract_entry,1.pl.excl.2.sg.fut.aff,a-Σ nìk-áán-dìh,a-Σ nìk-áán-dìh,a+Σ+nìk+áán+dìh,a Σ n i ¹ k aa ⁵ n d i ¹,a + Σ + n i ¹ k + aa ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang017,abstract_entry,1.pl.excl.2.sg.fut.aff,a-Σ nìk-áán,a-Σ nìk-áán,a+Σ+nìk+áán,a Σ n i ¹ k aa ⁵ n,a + Σ + n i ¹ k + aa ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang018,abstract_entry,1.pl.excl.2.pl.fut.aff,a-Σ nìk-áán-dìh,a-Σ nìk-áán-dìh,a+Σ+nìk+áán+dìh,a Σ n i ¹ k aa ⁵ n d i ¹,a + Σ + n i ¹ k + aa ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang019,abstract_entry,1.pl.excl.2.pl.fut.aff,a-Σ nìk-áán,a-Σ nìk-áán,a+Σ+nìk+áán,a Σ n i ¹ k aa ⁵ n,a + Σ + n i ¹ k + aa ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang020,abstract_entry,1.sg.3.sg.fut.aff,Σ nìk-dìh,Σ nìk-dìh,Σ+nìk+dìh,Σ n i ¹ k d i ¹,Σ + n i ¹ k + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang021,abstract_entry,1.sg.3.sg.fut.aff,Σ-nì,Σ-nì,Σ+nì,Σ n i ¹,Σ + n i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang022,abstract_entry,1.sg.3.pl.fut.aff,Σ-lám nìk-dìh,Σ-lám nìk-dìh,Σ+lám+nìk+dìh,Σ l a ⁵ m n i ¹ k d i ¹,Σ + l a ⁵ m + n i ¹ k + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang023,abstract_entry,1.sg.3.pl.fut.aff,Σ-lám nì,Σ-lám nì,Σ+lám+nì,Σ l a ⁵ m n i ¹,Σ + l a ⁵ m + n i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang024,abstract_entry,1.pl.excl.3.sg.fut.aff,Σ nìk-án-dìh,Σ nìk-án-dìh,Σ+nìk+án+dìh,Σ n i ¹ k a ⁵ n d i ¹,Σ + n i ¹ k + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang025,abstract_entry,1.pl.excl.3.sg.fut.aff,Σ nìk-áán,Σ nìk-áán,Σ+nìk+áán,Σ n i ¹ k aa ⁵ n,Σ + n i ¹ k + aa ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang026,abstract_entry,1.pl.excl.3.sg.fut.aff,t-Σ rá-án,t-Σ rá-án,t+Σ+rá+án,t Σ r a ⁵ a ⁵ n,t + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang027,abstract_entry,1.pl.incl.3.sg.fut.aff,t-Σ rá-án,t-Σ rá-án,t+Σ+rá+án,t Σ r a ⁵ a ⁵ n,t + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang028,abstract_entry,1.pl.incl.3.sg.fut.aff,t-Σ ráh,t-Σ ráh,t+Σ+ráh,t Σ r a ⁵,t + Σ + r a ⁵,unspecified,,optional_plural,Chelliah2019Lamkang,18,lamkang
+lamkang029,abstract_entry,1.pl.excl.3.pl.fut.aff,Σ nìk-án-dìh,Σ nìk-án-dìh,Σ+nìk+án+dìh,Σ n i ¹ k a ⁵ n d i ¹,Σ + n i ¹ k + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang030,abstract_entry,1.pl.excl.3.pl.fut.aff,Σ nìk-áán,Σ nìk-áán,Σ+nìk+áán,Σ n i ¹ k aa ⁵ n,Σ + n i ¹ k + aa ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang031,abstract_entry,1.pl.excl.3.pl.fut.aff,t-Σ rá-án,t-Σ rá-án,t+Σ+rá+án,t Σ r a ⁵ a ⁵ n,t + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang032,abstract_entry,1.pl.incl.3.pl.fut.aff,t-Σ rá-án,t-Σ rá-án,t+Σ+rá+án,t Σ r a ⁵ a ⁵ n,t + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang033,iip,2.sg.fut.aff,ííp ná-dìh,Σ ná-dìh,Σ+ná+dìh,Σ n a ⁵ d i ¹,Σ + n a ⁵ + d i ¹,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang034,iip,2.sg.fut.aff,ííp ná,Σ ná,Σ+ná,Σ n a ⁵,Σ + n a ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang035,iip,2.pl.fut.aff,ííp ná-án-dìh,Σ ná-án-dìh,Σ+ná+án+dìh,Σ n a ⁵ a ⁵ n d i ¹,Σ + n a ⁵ + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang036,iip,2.pl.fut.aff,ííp ná-án,Σ ná-án,Σ+ná+án,Σ n a ⁵ a ⁵ n,Σ + n a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang037,abstract_entry,2.sg.1.sg.fut.aff,m-Σ ná-dìh,m-Σ ná-dìh,m+Σ+ná+dìh,m Σ n a ⁵ d i ¹,m + Σ + n a ⁵ + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang038,abstract_entry,2.sg.1.sg.fut.aff,m-Σ ná,m-Σ ná,m+Σ+ná,m Σ n a ⁵,m + Σ + n a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang039,abstract_entry,2.sg.1.pl.excl.fut.aff,m-Σ ná-án-dìh,m-Σ ná-án-dìh,m+Σ+ná+án+dìh,m Σ n a ⁵ a ⁵ n d i ¹,m + Σ + n a ⁵ + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang040,abstract_entry,2.sg.1.pl.excl.fut.aff,m-Σ ná-án,m-Σ ná-án,m+Σ+ná+án,m Σ n a ⁵ a ⁵ n,m + Σ + n a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang041,abstract_entry,2.pl.1.sg.fut.aff,m-Σ ná-án-dìh,m-Σ ná-án-dìh,m+Σ+ná+án+dìh,m Σ n a ⁵ a ⁵ n d i ¹,m + Σ + n a ⁵ + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang042,abstract_entry,2.pl.1.sg.fut.aff,m-Σ ná-án,m-Σ ná-án,m+Σ+ná+án,m Σ n a ⁵ a ⁵ n,m + Σ + n a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang043,abstract_entry,2.pl.1.pl.excl.fut.aff,m-Σ ná-án-dìh,m-Σ ná-án-dìh,m+Σ+ná+án+dìh,m Σ n a ⁵ a ⁵ n d i ¹,m + Σ + n a ⁵ + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang044,abstract_entry,2.pl.1.pl.excl.fut.aff,m-Σ ná-án,m-Σ ná-án,m+Σ+ná+án,m Σ n a ⁵ a ⁵ n,m + Σ + n a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang045,abstract_entry,2.sg.3.sg.fut.aff,Σ ná-dìh,Σ ná-dìh,Σ+ná+dìh,Σ n a ⁵ d i ¹,Σ + n a ⁵ + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang046,abstract_entry,2.sg.3.sg.fut.aff,Σ ná,Σ ná,Σ+ná,Σ n a ⁵,Σ + n a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang047,abstract_entry,2.sg.3.pl.fut.aff,Σ-lám ná-dìh,Σ-lám ná-dìh,Σ+lám+ná+dìh,Σ l a ⁵ m n a ⁵ d i ¹,Σ + l a ⁵ m + n a ⁵ + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang048,abstract_entry,2.sg.3.pl.fut.aff,Σ-lám ná,Σ-lám ná,Σ+lám+ná,Σ l a ⁵ m n a ⁵,Σ + l a ⁵ m + n a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang049,abstract_entry,2.pl.3.sg.fut.aff,Σ ná-án-dìh,Σ ná-án-dìh,Σ+ná+án+dìh,Σ n a ⁵ a ⁵ n d i ¹,Σ + n a ⁵ + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang050,abstract_entry,2.pl.3.sg.fut.aff,Σ ná-án,Σ ná-án,Σ+ná+án,Σ n a ⁵ a ⁵ n,Σ + n a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang051,abstract_entry,2.pl.3.pl.fut.aff,Σ ná-án-dìh,Σ ná-án-dìh,Σ+ná+án+dìh,Σ n a ⁵ a ⁵ n d i ¹,Σ + n a ⁵ + a ⁵ n + d i ¹,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang052,abstract_entry,2.pl.3.pl.fut.aff,Σ ná-án,Σ ná-án,Σ+ná+án,Σ n a ⁵ a ⁵ n,Σ + n a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang053,iip,3.sg.fut.aff,k-ííp ráh,k-Σ ráh,k+Σ+ráh,k Σ r a ⁵,k + Σ + r a ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang054,iip,3.pl.fut.aff,k-ííp-lám ráh,k-Σ-lám ráh,k+Σ+lám+ráh,k Σ l a ⁵ m r a ⁵,k + Σ + l a ⁵ m + r a ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang055,abstract_entry,3.sg.1.sg.fut.aff,m-k-Σ ráh,m-k-Σ ráh,m+k+Σ+ráh,m k Σ r a ⁵,m + k + Σ + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang056,abstract_entry,3.sg.1.pl.excl.fut.aff,m-k-Σ rá-án,m-k-Σ rá-án,m+k+Σ+rá+án,m k Σ r a ⁵ a ⁵ n,m + k + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang057,abstract_entry,3.sg.1.pl.incl.fut.aff,mi-k-Σ rá-án,mi-k-Σ rá-án,mi+k+Σ+rá+án,m i k Σ r a ⁵ a ⁵ n,m i + k + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang058,abstract_entry,3.pl.1.sg.fut.aff,m-k-Σ-lám ráh,m-k-Σ-lám ráh,m+k+Σ+lám+ráh,m k Σ l a ⁵ m r a ⁵,m + k + Σ + l a ⁵ m + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang059,abstract_entry,3.pl.1.pl.excl.fut.aff,m-k-Σ rá-án,m-k-Σ rá-án,m+k+Σ+rá+án,m k Σ r a ⁵ a ⁵ n,m + k + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang060,abstract_entry,3.pl.1.pl.incl.fut.aff,mi-k-Σ rá-án,mi-k-Σ rá-án,mi+k+Σ+rá+án,m i k Σ r a ⁵ a ⁵ n,m i + k + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang061,abstract_entry,3.sg.2.sg.fut.aff,a-k-Σ ráh,a-k-Σ ráh,a+k+Σ+ráh,a k Σ r a ⁵,a + k + Σ + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang062,abstract_entry,3.sg.2.pl.fut.aff,a-k-Σ rá-án,a-k-Σ rá-án,a+k+Σ+rá+án,a k Σ r a ⁵ a ⁵ n,a + k + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang063,abstract_entry,3.pl.2.sg.fut.aff,a-k-Σ-lám ráh,a-k-Σ-lám ráh,a+k+Σ+lám+ráh,a k Σ l a ⁵ m r a ⁵,a + k + Σ + l a ⁵ m + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang064,abstract_entry,3.pl.2.pl.fut.aff,a-k-Σ rá-án,a-k-Σ rá-án,a+k+Σ+rá+án,a k Σ r a ⁵ a ⁵ n,a + k + Σ + r a ⁵ + a ⁵ n,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang065,abstract_entry,3.sg.3.sg.fut.aff,k-Σ ráh,k-Σ ráh,k+Σ+ráh,k Σ r a ⁵,k + Σ + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang066,abstract_entry,3.sg.3.pl.fut.aff,k-Σ-lám ráh,k-Σ-lám ráh,k+Σ+lám+ráh,k Σ l a ⁵ m r a ⁵,k + Σ + l a ⁵ m + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang067,abstract_entry,3.pl.3.sg.fut.aff,k-Σ-lám ráh,k-Σ-lám ráh,k+Σ+lám+ráh,k Σ l a ⁵ m r a ⁵,k + Σ + l a ⁵ m + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang068,abstract_entry,3.pl.3.pl.fut.aff,k-Σ-lám ráh,k-Σ-lám ráh,k+Σ+lám+ráh,k Σ l a ⁵ m r a ⁵,k + Σ + l a ⁵ m + r a ⁵,unspecified,,,Chelliah2019Lamkang,18,lamkang
+lamkang069,iip,1.sg.fut.neg,ííp nímaa-ng,Σ nímaa-ng,Σ+nímaa+ng,Σ n i ⁵ m aa ŋ,Σ + n i ⁵ m aa + ŋ,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang070,iip,1.pl.incl.fut.neg,t’ii in ni me,tΣ in ni me,t+Σ+in+nim+e,t Σ i n n i m e,t + Σ + i n + n i m + e,unspecified,,,Khullar2026Lamkang,nopage,lamkang
+lamkang071,iip,1.pl.excl.fut.neg,ííp nímá-án-ri-ng,Σ nímá-án-ri-ng,Σ+nímá+án+ri+ng,Σ n i ⁵ m a ⁵ a ⁵ n r i ŋ,Σ + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang072,abstract_entry,1.sg.2.sg.fut.neg,a-Σ nímaa-ng,a-Σ nímaa-ng,a+Σ+nímaa+ng,a Σ n i ⁵ m aa ŋ,a + Σ + n i ⁵ m aa + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang073,abstract_entry,1.sg.2.pl.fut.neg,a-Σ nímá-án-ri-ng,a-Σ nímá-án-ri-ng,a+Σ+nímá+án+ri+ng,a Σ n i ⁵ m a ⁵ a ⁵ n r i ŋ,a + Σ + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang074,abstract_entry,1.sg.2.pl.fut.neg,a-Σ nímaa-ng,a-Σ nímaa-ng,a+Σ+nímaa+ng,a Σ n i ⁵ m aa ŋ,a + Σ + n i ⁵ m aa + ŋ,unspecified,,optional_plural,Chelliah2019Lamkang,21,lamkang
+lamkang075,abstract_entry,1.sg.3.pl.fut.neg,Σ-lám nímaa-ng,Σ-lám nímaa-ng,Σ+lám+nímaa+ng,Σ l a ⁵ m n i ⁵ m aa ŋ,Σ + l a ⁵ m + n i ⁵ m aa + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang076,abstract_entry,1.pl.excl.2.sg.fut.neg,a-Σ-ín nímá-án-ri-ng,a-Σ-ín nímá-án-ri-ng,a+Σ+ín+nímá+án+ri+ng,a Σ i ⁵ n n i ⁵ m a ⁵ a ⁵ n r i ŋ,a + Σ + i ⁵ n + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang077,abstract_entry,1.pl.excl.2.sg.fut.neg,a-Σ nímá-án-ri-ng,a-Σ nímá-án-ri-ng,a+Σ+nímá+án+ri+ng,a Σ n i ⁵ m a ⁵ a ⁵ n r i ŋ,a + Σ + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,optional_plural,Chelliah2019Lamkang,21,lamkang
+lamkang078,abstract_entry,1.pl.excl.2.pl.fut.neg,a-Σ-ín nímá-án-ri-ng,a-Σ-ín nímá-án-ri-ng,a+Σ+ín+nímá+án+ri+ng,a Σ i ⁵ n n i ⁵ m a ⁵ a ⁵ n r i ŋ,a + Σ + i ⁵ n + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang079,abstract_entry,1.pl.excl.2.pl.fut.neg,a-Σ nímá-án-ri-ng,a-Σ nímá-án-ri-ng,a+Σ+nímá+án+ri+ng,a Σ n i ⁵ m a ⁵ a ⁵ n r i ŋ,a + Σ + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,optional_plural,Chelliah2019Lamkang,21,lamkang
+lamkang080,abstract_entry,1.sg.3.sg.fut.neg,Σ nímaa-ng,Σ nímaa-ng,Σ+nímaa+ng,Σ n i ⁵ m aa ŋ,Σ + n i ⁵ m aa + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang081,abstract_entry,1.pl.excl.3.sg.fut.neg,Σ nímá-án-ri-ng,Σ nímá-án-ri-ng,Σ+nímá+án+ri+ng,Σ n i ⁵ m a ⁵ a ⁵ n r i ŋ,Σ + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang082,abstract_entry,1.pl.incl.3.sg.fut.neg,t-Σ-ín ním-éh,t-Σ-ín ním-éh,t+Σ+ín+ním+éh,t Σ i ⁵ n n i ⁵ m e ⁵,t + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang083,abstract_entry,1.pl.incl.3.sg.fut.neg,t-Σ ním-éh,t-Σ ním-éh,t+Σ+ním+éh,t Σ n i ⁵ m e ⁵,t + Σ + n i ⁵ m + e ⁵,unspecified,,optional_plural,Chelliah2019Lamkang,21,lamkang
+lamkang084,abstract_entry,1.pl.excl.3.pl.fut.neg,Σ nímá-án-ri-ng,Σ nímá-án-ri-ng,Σ+nímá+án+ri+ng,Σ n i ⁵ m a ⁵ a ⁵ n r i ŋ,Σ + n i ⁵ m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang085,abstract_entry,1.pl.excl.3.pl.fut.neg,t-Σ-ín ním-éh,t-Σ-ín ním-éh,t+Σ+ín+ním+éh,t Σ i ⁵ n n i ⁵ m e ⁵,t + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang086,abstract_entry,1.pl.incl.3.pl.fut.neg,t-Σ-ín ním-éh,t-Σ-ín ním-éh,t+Σ+ín+ním+éh,t Σ i ⁵ n n i ⁵ m e ⁵,t + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang087,abstract_entry,1.pl.incl.3.pl.fut.neg,t-Σ-lám ním-éh,t-Σ-lám ním-éh,t+Σ+lám+ním+éh,t Σ l a ⁵ m n i ⁵ m e ⁵,t + Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang088,iip,2.sg.fut.neg,ííp ním-tíh,Σ ním-tíh,Σ+ním+tíh,Σ n i ⁵ m t i ⁵,Σ + n i ⁵ m + t i ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang089,iip,2.pl.fut.neg,ííp nímá-án-tíh,Σ nímá-án-tíh,Σ+nímá+án+tíh,Σ n i ⁵ m a ⁵ a ⁵ n t i ⁵,Σ + n i ⁵ m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang090,abstract_entry,2.sg.1.sg.fut.neg,m-Σ ním-tíh,m-Σ ním-tíh,m+Σ+ním+tíh,m Σ n i ⁵ m t i ⁵,m + Σ + n i ⁵ m + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang091,abstract_entry,2.sg.1.pl.excl.fut.neg,m-Σ nímá-án-tíh,m-Σ nímá-án-tíh,m+Σ+nímá+án+tíh,m Σ n i ⁵ m a ⁵ a ⁵ n t i ⁵,m + Σ + n i ⁵ m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang092,abstract_entry,2.pl.1.sg.fut.neg,m-Σ nímá-án-tíh,m-Σ nímá-án-tíh,m+Σ+nímá+án+tíh,m Σ n i ⁵ m a ⁵ a ⁵ n t i ⁵,m + Σ + n i ⁵ m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang093,abstract_entry,2.pl.1.pl.excl.fut.neg,m-Σ nímá-án-tíh,m-Σ nímá-án-tíh,m+Σ+nímá+án+tíh,m Σ n i ⁵ m a ⁵ a ⁵ n t i ⁵,m + Σ + n i ⁵ m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang094,abstract_entry,2.sg.3.sg.fut.neg,Σ ním-tíh,Σ ním-tíh,Σ+ním+tíh,Σ n i ⁵ m t i ⁵,Σ + n i ⁵ m + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang095,abstract_entry,2.sg.3.pl.fut.neg,Σ-lám ním-tíh,Σ-lám ním-tíh,Σ+lám+ním+tíh,Σ l a ⁵ m n i ⁵ m t i ⁵,Σ + l a ⁵ m + n i ⁵ m + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang096,abstract_entry,2.pl.3.sg.fut.neg,Σ nímá-án-tíh,Σ nímá-án-tíh,Σ+nímá+án+tíh,Σ n i ⁵ m a ⁵ a ⁵ n t i ⁵,Σ + n i ⁵ m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang097,abstract_entry,2.pl.3.pl.fut.neg,Σ nímá-án-tíh,Σ nímá-án-tíh,Σ+nímá+án+tíh,Σ n i ⁵ m a ⁵ a ⁵ n t i ⁵,Σ + n i ⁵ m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang098,iip,3.sg.fut.neg,ííp ním-éh,Σ ním-éh,Σ+ním+éh,Σ n i ⁵ m e ⁵,Σ + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang099,iip,3.pl.fut.neg,ííp-lám ním-éh,Σ-lám ním-éh,Σ+lám+ním+éh,Σ l a ⁵ m n i ⁵ m e ⁵,Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang100,abstract_entry,3.sg.1.sg.fut.neg,m-Σ ním-éh,m-Σ ním-éh,m+Σ+ním+éh,m Σ n i ⁵ m e ⁵,m + Σ + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang101,abstract_entry,3.sg.1.pl.excl.fut.neg,m-Σ-ín ním-éh,m-Σ-ín ním-éh,m+Σ+ín+ním+éh,m Σ i ⁵ n n i ⁵ m e ⁵,m + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang102,abstract_entry,3.sg.1.pl.excl.fut.neg,mi-Σ-ín ním-éh,mi-Σ-ín ním-éh,mi+Σ+ín+ním+éh,m i Σ i ⁵ n n i ⁵ m e ⁵,m i + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang103,abstract_entry,3.sg.1.pl.incl.fut.neg,mi-Σ-ín ním-éh,mi-Σ-ín ním-éh,mi+Σ+ín+ním+éh,m i Σ i ⁵ n n i ⁵ m e ⁵,m i + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang104,abstract_entry,3.pl.1.sg.fut.neg,m-Σ-lám ním-éh,m-Σ-lám ním-éh,m+Σ+lám+ním+éh,m Σ l a ⁵ m n i ⁵ m e ⁵,m + Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang105,abstract_entry,3.pl.1.pl.excl.fut.neg,m-Σ-ín ním-éh,m-Σ-ín ním-éh,m+Σ+ín+ním+éh,m Σ i ⁵ n n i ⁵ m e ⁵,m + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang106,abstract_entry,3.pl.1.pl.excl.fut.neg,mi-Σ-ín ním-éh,mi-Σ-ín ním-éh,mi+Σ+ín+ním+éh,m i Σ i ⁵ n n i ⁵ m e ⁵,m i + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang107,abstract_entry,3.pl.1.pl.incl.fut.neg,mi-Σ-ín ním-éh,mi-Σ-ín ním-éh,mi+Σ+ín+ním+éh,m i Σ i ⁵ n n i ⁵ m e ⁵,m i + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang108,abstract_entry,3.sg.2.sg.fut.neg,a-Σ ním-éh,a-Σ ním-éh,a+Σ+ním+éh,a Σ n i ⁵ m e ⁵,a + Σ + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang109,abstract_entry,3.sg.2.pl.fut.neg,a-Σ-ín ním-éh,a-Σ-ín ním-éh,a+Σ+ín+ním+éh,a Σ i ⁵ n n i ⁵ m e ⁵,a + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang110,abstract_entry,3.pl.2.sg.fut.neg,a-Σ-lám ním-éh,a-Σ-lám ním-éh,a+Σ+lám+ním+éh,a Σ l a ⁵ m n i ⁵ m e ⁵,a + Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang111,abstract_entry,3.pl.2.pl.fut.neg,a-Σ-ín ním-éh,a-Σ-ín ním-éh,a+Σ+ín+ním+éh,a Σ i ⁵ n n i ⁵ m e ⁵,a + Σ + i ⁵ n + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang112,abstract_entry,3.sg.3.sg.fut.neg,Σ ním-éh,Σ ním-éh,Σ+ním+éh,Σ n i ⁵ m e ⁵,Σ + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang113,abstract_entry,3.sg.3.pl.fut.neg,Σ-lám ním-éh,Σ-lám ním-éh,Σ+lám+ním+éh,Σ l a ⁵ m n i ⁵ m e ⁵,Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang114,abstract_entry,3.pl.3.sg.fut.neg,Σ-lám ním-éh,Σ-lám ním-éh,Σ+lám+ním+éh,Σ l a ⁵ m n i ⁵ m e ⁵,Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang115,abstract_entry,3.pl.3.pl.fut.neg,Σ-lám ním-éh,Σ-lám ním-éh,Σ+lám+ním+éh,Σ l a ⁵ m n i ⁵ m e ⁵,Σ + l a ⁵ m + n i ⁵ m + e ⁵,unspecified,,,Chelliah2019Lamkang,21,lamkang
+lamkang116,iip,1.sg.nfut.aff,k-ííp pi-ng,k-Σ pi-ng,k+Σ+pi+ng,k Σ p i ŋ,k + Σ + p i + ŋ,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang117,iip,1.sg.nfut.aff,ííp-nú,Σ-nú,Σ+nú,Σ n u ⁵,Σ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang118,iip,1.pl.incl.nfut.aff,t’ii in,tΣ in,t+Σ+in,t Σ i n,t + Σ + i n,unspecified,,,Khullar2026Lamkang,nopage,lamkang
+lamkang119,iip,1.pl.incl.nfut.aff,iip in min nu,Σ in min nu,Σ+in+min+nu,Σ i n m i n n u,Σ + i n + m i n + n u,unspecified,pfv,,Khullar2026Lamkang,nopage,lamkang
+lamkang120,iip,1.pl.excl.nfut.aff,k-ííp-ín pi-ng,k-Σ-ín pi-ng,k+Σ+ín+pi+ng,k Σ i ⁵ n p i ŋ,k + Σ + i ⁵ n + p i + ŋ,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang121,iip,1.pl.excl.nfut.aff,ííp-ín-nú,Σ-ín-nú,Σ+ín+nú,Σ i ⁵ n n u ⁵,Σ + i ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang122,abstract_entry,1.sg.2.sg.nfut.aff,a-Σ-nú,a-Σ-nú,a+Σ+nú,a Σ n u ⁵,a + Σ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang123,abstract_entry,1.sg.2.sg.nfut.aff,a-k-Σ,a-k-Σ,a+k+Σ,a k Σ,a + k + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang124,abstract_entry,1.sg.2.pl.nfut.aff,a-Σ-ín-nú,a-Σ-ín-nú,a+Σ+ín+nú,a Σ i ⁵ n n u ⁵,a + Σ + i ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang125,abstract_entry,1.sg.2.pl.nfut.aff,a-k-Σ-ín,a-k-Σ-ín,a+k+Σ+ín,a k Σ i ⁵ n,a + k + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang126,abstract_entry,1.pl.excl.2.sg.nfut.aff,a-Σ-ín-nú,a-Σ-ín-nú,a+Σ+ín+nú,a Σ i ⁵ n n u ⁵,a + Σ + i ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang127,abstract_entry,1.pl.excl.2.sg.nfut.aff,a-k-Σ-ín,a-k-Σ-ín,a+k+Σ+ín,a k Σ i ⁵ n,a + k + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang128,abstract_entry,1.pl.excl.2.pl.nfut.aff,a-Σ-ín-nú,a-Σ-ín-nú,a+Σ+ín+nú,a Σ i ⁵ n n u ⁵,a + Σ + i ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang129,abstract_entry,1.pl.excl.2.pl.nfut.aff,a-k-Σ-ín,a-k-Σ-ín,a+k+Σ+ín,a k Σ i ⁵ n,a + k + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang130,abstract_entry,1.sg.3.sg.nfut.aff,Σ-nú,Σ-nú,Σ+nú,Σ n u ⁵,Σ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang131,abstract_entry,1.sg.3.sg.nfut.aff,k-Σ,k-Σ,k+Σ,k Σ,k + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang132,abstract_entry,1.sg.3.pl.nfut.aff,Σ-lám-nú,Σ-lám-nú,Σ+lám+nú,Σ l a ⁵ m n u ⁵,Σ + l a ⁵ m + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang133,abstract_entry,1.sg.3.pl.nfut.aff,k-Σ-lám,k-Σ-lám,k+Σ+lám,k Σ l a ⁵ m,k + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang134,abstract_entry,1.pl.excl.3.sg.nfut.aff,Σ-ín-nú,Σ-ín-nú,Σ+ín+nú,Σ i ⁵ n n u ⁵,Σ + i ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang135,abstract_entry,1.pl.excl.3.sg.nfut.aff,k-Σ-ín,k-Σ-ín,k+Σ+ín,k Σ i ⁵ n,k + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang136,abstract_entry,1.pl.incl.3.sg.nfut.aff,Σ-ín-min-nú,Σ-ín-min-nú,Σ+ín+min+nú,Σ i ⁵ n m i n n u ⁵,Σ + i ⁵ n + m i n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang137,abstract_entry,1.pl.incl.3.sg.nfut.aff,Σ-min-nú,Σ-min-nú,Σ+min+nú,Σ m i n n u ⁵,Σ + m i n + n u ⁵,unspecified,pfv,optional_plural,Chelliah2019Lamkang,16,lamkang
+lamkang138,abstract_entry,1.pl.incl.3.sg.nfut.aff,n-Σ,n-Σ,n+Σ,n Σ,n + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang139,abstract_entry,1.pl.incl.3.sg.nfut.aff,t-Σ,t-Σ,t+Σ,t Σ,t + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang140,abstract_entry,1.pl.excl.3.pl.nfut.aff,Σ-ín-nú,Σ-ín-nú,Σ+ín+nú,Σ i ⁵ n n u ⁵,Σ + i ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang141,abstract_entry,1.pl.excl.3.pl.nfut.aff,k-Σ-ín,k-Σ-ín,k+Σ+ín,k Σ i ⁵ n,k + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang142,abstract_entry,1.pl.excl.3.pl.nfut.aff,t-Σ-ín,t-Σ-ín,t+Σ+ín,t Σ i ⁵ n,t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang143,abstract_entry,1.pl.incl.3.pl.nfut.aff,Σ-lám-min-nú,Σ-lám-min-nú,Σ+lám+min+nú,Σ l a ⁵ m m i n n u ⁵,Σ + l a ⁵ m + m i n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang144,abstract_entry,1.pl.incl.3.pl.nfut.aff,n-Σ-ín,n-Σ-ín,n+Σ+ín,n Σ i ⁵ n,n + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang145,abstract_entry,1.pl.incl.3.pl.nfut.aff,t-Σ-ín,t-Σ-ín,t+Σ+ín,t Σ i ⁵ n,t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang146,iip,2.sg.nfut.aff,ííp-tínú,Σ-tínú,Σ+tí+nú,Σ t i ⁵ n u ⁵,Σ + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang147,iip,2.sg.nfut.aff,k-ííp p-tíh,k-Σ p-tíh,k+Σ+p+tíh,k Σ p t i ⁵,k + Σ + p + t i ⁵,sociolect_var,,,Chelliah2019Lamkang,9,lamkang
+lamkang148,iip,2.sg.nfut.aff,k-ííp-tíh,k-Σ-tíh,k+Σ+tíh,k Σ t i ⁵,k + Σ + t i ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang149,iip,2.pl.nfut.aff,ííp-ín-tínú,Σ-ín-tínú,Σ+ín+tí+nú,Σ i ⁵ n t i ⁵ n u ⁵,Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang150,iip,2.pl.nfut.aff,k-ííp-ín p-tíh,k-Σ-ín p-tíh,k+Σ+ín+p+tíh,k Σ i ⁵ n p t i ⁵,k + Σ + i ⁵ n + p + t i ⁵,sociolect_var,,,Chelliah2019Lamkang,9,lamkang
+lamkang151,iip,2.pl.nfut.aff,k-ííp-ín-tíh,k-Σ-ín-tíh,k+Σ+ín+tíh,k Σ i ⁵ n t i ⁵,k + Σ + i ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang152,abstract_entry,2.sg.1.sg.nfut.aff,m-Σ-tínú,m-Σ-tínú,m+Σ+tí+nú,m Σ t i ⁵ n u ⁵,m + Σ + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang153,abstract_entry,2.sg.1.sg.nfut.aff,a-t-Σ,a-t-Σ,a+t+Σ,a t Σ,a + t + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang154,abstract_entry,2.sg.1.sg.nfut.aff,m-t-Σ,m-t-Σ,m+t+Σ,m t Σ,m + t + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang155,abstract_entry,2.sg.1.pl.excl.nfut.aff,m-Σ-ín-tínú,m-Σ-ín-tínú,m+Σ+ín+tí+nú,m Σ i ⁵ n t i ⁵ n u ⁵,m + Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang156,abstract_entry,2.sg.1.pl.excl.nfut.aff,a-t-Σ-ín,a-t-Σ-ín,a+t+Σ+ín,a t Σ i ⁵ n,a + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang157,abstract_entry,2.sg.1.pl.excl.nfut.aff,m-t-Σ-ín,m-t-Σ-ín,m+t+Σ+ín,m t Σ i ⁵ n,m + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang158,abstract_entry,2.pl.1.sg.nfut.aff,m-Σ-ín-tínú,m-Σ-ín-tínú,m+Σ+ín+tí+nú,m Σ i ⁵ n t i ⁵ n u ⁵,m + Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang159,abstract_entry,2.pl.1.sg.nfut.aff,a-t-Σ-ín,a-t-Σ-ín,a+t+Σ+ín,a t Σ i ⁵ n,a + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang160,abstract_entry,2.pl.1.sg.nfut.aff,m-t-Σ-ín,m-t-Σ-ín,m+t+Σ+ín,m t Σ i ⁵ n,m + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang161,abstract_entry,2.pl.1.pl.excl.nfut.aff,m-Σ-ín-tínú,m-Σ-ín-tínú,m+Σ+ín+tí+nú,m Σ i ⁵ n t i ⁵ n u ⁵,m + Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang162,abstract_entry,2.pl.1.pl.excl.nfut.aff,a-t-Σ-ín,a-t-Σ-ín,a+t+Σ+ín,a t Σ i ⁵ n,a + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang163,abstract_entry,2.pl.1.pl.excl.nfut.aff,m-t-Σ-ín,m-t-Σ-ín,m+t+Σ+ín,m t Σ i ⁵ n,m + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang164,abstract_entry,2.sg.3.sg.nfut.aff,Σ-tínú,Σ-tínú,Σ+tí+nú,Σ t i ⁵ n u ⁵,Σ + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang165,abstract_entry,2.sg.3.sg.nfut.aff,a-Σ,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang166,abstract_entry,2.sg.3.pl.nfut.aff,Σ-ín-tínú,Σ-ín-tínú,Σ+ín+tí+nú,Σ i ⁵ n t i ⁵ n u ⁵,Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang167,abstract_entry,2.sg.3.pl.nfut.aff,Σ-lám-tínú,Σ-lám-tínú,Σ+lám+tí+nú,Σ l a ⁵ m t i ⁵ n u ⁵,Σ + l a ⁵ m + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang168,abstract_entry,2.sg.3.pl.nfut.aff,a-Σ-lám,a-Σ-lám,a+Σ+lám,a Σ l a ⁵ m,a + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang169,abstract_entry,2.pl.3.sg.nfut.aff,Σ-ín-tínú,Σ-ín-tínú,Σ+ín+tí+nú,Σ i ⁵ n t i ⁵ n u ⁵,Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang170,abstract_entry,2.pl.3.sg.nfut.aff,a-Σ-ín,a-Σ-ín,a+Σ+ín,a Σ i ⁵ n,a + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang171,abstract_entry,2.pl.3.pl.nfut.aff,Σ-ín-tínú,Σ-ín-tínú,Σ+ín+tí+nú,Σ i ⁵ n t i ⁵ n u ⁵,Σ + i ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang172,abstract_entry,2.pl.3.pl.nfut.aff,a-Σ-ín,a-Σ-ín,a+Σ+ín,a Σ i ⁵ n,a + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang173,iip,3.sg.nfut.aff,ííp-dá,Σ-dá,Σ+dá,Σ d a ⁵,Σ + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang174,iip,3.sg.nfut.aff,k-ííp pi,k-Σ pi,k+Σ+pi,k Σ p i,k + Σ + p i,unspecified,,,Chelliah2019Lamkang,9,lamkang
+lamkang175,iip,3.sg.nfut.aff,k-ííp-’i,k-Σ-’i,k+Σ+’i,k Σ ʔ i,k + Σ + ʔ i,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang176,iip,3.pl.nfut.aff,ííp-lám-dá,Σ-lám-dá,Σ+lám+dá,Σ l a ⁵ m d a ⁵,Σ + l a ⁵ m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang177,iip,3.pl.nfut.aff,k-ííp-lám pi,k-Σ-lám pi,k+Σ+lám+pi,k Σ l a ⁵ m p i,k + Σ + l a ⁵ m + p i,unspecified,,,Chelliah2019Lamkang,9,lamkang
+lamkang178,iip,3.pl.nfut.aff,k-ííp-lám,k-Σ-lám,k+Σ+lám,k Σ l a ⁵ m,k + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang179,abstract_entry,3.sg.1.sg.nfut.aff,m-Σ-dá,m-Σ-dá,m+Σ+dá,m Σ d a ⁵,m + Σ + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang180,abstract_entry,3.sg.1.sg.nfut.aff,m-t-Σ,m-t-Σ,m+t+Σ,m t Σ,m + t + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang181,abstract_entry,3.sg.1.pl.excl.nfut.aff,mi-Σ-ín-dá,mi-Σ-ín-dá,mi+Σ+ín+dá,m i Σ i ⁵ n d a ⁵,m i + Σ + i ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang182,abstract_entry,3.sg.1.pl.excl.nfut.aff,m-t-Σ-ín,m-t-Σ-ín,m+t+Σ+ín,m t Σ i ⁵ n,m + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang183,abstract_entry,3.sg.1.pl.excl.nfut.aff,mi-t-Σ-ín,mi-t-Σ-ín,mi+t+Σ+ín,m i t Σ i ⁵ n,m i + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang184,abstract_entry,3.sg.1.pl.incl.nfut.aff,mi-Σ-ín-dá,mi-Σ-ín-dá,mi+Σ+ín+dá,m i Σ i ⁵ n d a ⁵,m i + Σ + i ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang185,abstract_entry,3.sg.1.pl.incl.nfut.aff,mi-t-Σ-ín,mi-t-Σ-ín,mi+t+Σ+ín,m i t Σ i ⁵ n,m i + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang186,abstract_entry,3.pl.1.sg.nfut.aff,m-Σ-lám-dá,m-Σ-lám-dá,m+Σ+lám+dá,m Σ l a ⁵ m d a ⁵,m + Σ + l a ⁵ m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang187,abstract_entry,3.pl.1.sg.nfut.aff,m-t-Σ-lám,m-t-Σ-lám,m+t+Σ+lám,m t Σ l a ⁵ m,m + t + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang188,abstract_entry,3.pl.1.pl.excl.nfut.aff,mi-Σ-ín-dá,mi-Σ-ín-dá,mi+Σ+ín+dá,m i Σ i ⁵ n d a ⁵,m i + Σ + i ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang189,abstract_entry,3.pl.1.pl.excl.nfut.aff,m-t-Σ-ín,m-t-Σ-ín,m+t+Σ+ín,m t Σ i ⁵ n,m + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang190,abstract_entry,3.pl.1.pl.excl.nfut.aff,mi-t-Σ-ín,mi-t-Σ-ín,mi+t+Σ+ín,m i t Σ i ⁵ n,m i + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang191,abstract_entry,3.pl.1.pl.incl.nfut.aff,mi-Σ-ín-dá,mi-Σ-ín-dá,mi+Σ+ín+dá,m i Σ i ⁵ n d a ⁵,m i + Σ + i ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang192,abstract_entry,3.pl.1.pl.incl.nfut.aff,mi-t-Σ-ín,mi-t-Σ-ín,mi+t+Σ+ín,m i t Σ i ⁵ n,m i + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang193,abstract_entry,3.sg.2.sg.nfut.aff,a-Σ-dá,a-Σ-dá,a+Σ+dá,a Σ d a ⁵,a + Σ + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang194,abstract_entry,3.sg.2.sg.nfut.aff,a-t-Σ,a-t-Σ,a+t+Σ,a t Σ,a + t + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang195,abstract_entry,3.sg.2.pl.nfut.aff,a-Σ-ín-dá,a-Σ-ín-dá,a+Σ+ín+dá,a Σ i ⁵ n d a ⁵,a + Σ + i ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang196,abstract_entry,3.sg.2.pl.nfut.aff,a-t-Σ-ín,a-t-Σ-ín,a+t+Σ+ín,a t Σ i ⁵ n,a + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang197,abstract_entry,3.pl.2.sg.nfut.aff,a-Σ-lám-dá,a-Σ-lám-dá,a+Σ+lám+dá,a Σ l a ⁵ m d a ⁵,a + Σ + l a ⁵ m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang198,abstract_entry,3.pl.2.sg.nfut.aff,a-t-Σ-lám,a-t-Σ-lám,a+t+Σ+lám,a t Σ l a ⁵ m,a + t + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang199,abstract_entry,3.pl.2.pl.nfut.aff,a-Σ-ín-dá,a-Σ-ín-dá,a+Σ+ín+dá,a Σ i ⁵ n d a ⁵,a + Σ + i ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang200,abstract_entry,3.pl.2.pl.nfut.aff,a-t-Σ-ín,a-t-Σ-ín,a+t+Σ+ín,a t Σ i ⁵ n,a + t + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang201,abstract_entry,3.sg.3.sg.nfut.aff,Σ-dá,Σ-dá,Σ+dá,Σ d a ⁵,Σ + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang202,abstract_entry,3.sg.3.sg.nfut.aff,m-Σ,m-Σ,m+Σ,m Σ,m + Σ,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang203,abstract_entry,3.sg.3.pl.nfut.aff,Σ-lám-dá,Σ-lám-dá,Σ+lám+dá,Σ l a ⁵ m d a ⁵,Σ + l a ⁵ m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang204,abstract_entry,3.sg.3.pl.nfut.aff,m-Σ-lám,m-Σ-lám,m+Σ+lám,m Σ l a ⁵ m,m + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang205,abstract_entry,3.pl.3.sg.nfut.aff,Σ-lám-dá,Σ-lám-dá,Σ+lám+dá,Σ l a ⁵ m d a ⁵,Σ + l a ⁵ m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang206,abstract_entry,3.pl.3.sg.nfut.aff,m-Σ-ín,m-Σ-ín,m+Σ+ín,m Σ i ⁵ n,m + Σ + i ⁵ n,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang207,abstract_entry,3.pl.3.pl.nfut.aff,Σ-lám-dá,Σ-lám-dá,Σ+lám+dá,Σ l a ⁵ m d a ⁵,Σ + l a ⁵ m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,16,lamkang
+lamkang208,abstract_entry,3.pl.3.pl.nfut.aff,m-Σ-lám,m-Σ-lám,m+Σ+lám,m Σ l a ⁵ m,m + Σ + l a ⁵ m,unspecified,,,Chelliah2019Lamkang,13,lamkang
+lamkang209,iip,1.sg.nfut.neg,ííp maa-ng,Σ maa-ng,Σ+maa+ng,Σ m aa ŋ,Σ + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang210,iip,1.sg.nfut.neg,ííp m-nú,Σ m-nú,Σ+m+nú,Σ m n u ⁵,Σ + m + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang211,iip,1.pl.incl.nfut.neg,iip maan min nu,Σ maan min nu,Σ+ma+an+min+nu,Σ m a a n m i n n u,Σ + m a + a n + m i n + n u,unspecified,pfv,,Khullar2026Lamkang,nopage,lamkang
+lamkang212,iip,1.pl.incl.nfut.neg,t’ii in kme,tΣ in kme,t+Σ+in+k+m+e,t Σ i n k m e,t + Σ + i n + k + m + e,unspecified,,,Khullar2026Lamkang,nopage,lamkang
+lamkang213,iip,1.pl.incl.nfut.neg,t’ii in me,tΣ in me,t+Σ+in+m+e,t Σ i n m e,t + Σ + i n + m + e,unspecified,,,Khullar2026Lamkang,nopage,lamkang
+lamkang214,iip,1.pl.excl.nfut.neg,ííp má-án-ri-ng,Σ má-án-ri-ng,Σ+má+án+ri+ng,Σ m a ⁵ a ⁵ n r i ŋ,Σ + m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang215,iip,1.pl.excl.nfut.neg,ííp má-án-nú,Σ má-án-nú,Σ+má+án+nú,Σ m a ⁵ a ⁵ n n u ⁵,Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang216,abstract_entry,1.sg.2.sg.nfut.neg,a-Σ m-nú,a-Σ m-nú,a+Σ+m+nú,a Σ m n u ⁵,a + Σ + m + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang217,abstract_entry,1.sg.2.sg.nfut.neg,a-Σ maa-ng,a-Σ maa-ng,a+Σ+maa+ng,a Σ m aa ŋ,a + Σ + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang218,abstract_entry,1.sg.2.pl.nfut.neg,a-Σ má-án-nú,a-Σ má-án-nú,a+Σ+má+án+nú,a Σ m a ⁵ a ⁵ n n u ⁵,a + Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang219,abstract_entry,1.sg.2.pl.nfut.neg,a-Σ má-án-ri-ng,a-Σ má-án-ri-ng,a+Σ+má+án+ri+ng,a Σ m a ⁵ a ⁵ n r i ŋ,a + Σ + m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang220,abstract_entry,1.sg.2.pl.nfut.neg,a-Σ-ín maa-ng,a-Σ-ín maa-ng,a+Σ+ín+maa+ng,a Σ i ⁵ n m aa ŋ,a + Σ + i ⁵ n + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang221,abstract_entry,1.pl.excl.2.sg.nfut.neg,a-Σ má-án-nú,a-Σ má-án-nú,a+Σ+má+án+nú,a Σ m a ⁵ a ⁵ n n u ⁵,a + Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang222,abstract_entry,1.pl.excl.2.sg.nfut.neg,a-Σ má-án-ri-ng,a-Σ má-án-ri-ng,a+Σ+má+án+ri+ng,a Σ m a ⁵ a ⁵ n r i ŋ,a + Σ + m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang223,abstract_entry,1.pl.excl.2.sg.nfut.neg,a-Σ maa-ng,a-Σ maa-ng,a+Σ+maa+ng,a Σ m aa ŋ,a + Σ + m aa + ŋ,unspecified,,optional_plural,Chelliah2019Lamkang,15,lamkang
+lamkang224,abstract_entry,1.pl.excl.2.pl.nfut.neg,a-Σ má-án-nú,a-Σ má-án-nú,a+Σ+má+án+nú,a Σ m a ⁵ a ⁵ n n u ⁵,a + Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang225,abstract_entry,1.pl.excl.2.pl.nfut.neg,a-Σ má-án-ri-ng,a-Σ má-án-ri-ng,a+Σ+má+án+ri+ng,a Σ m a ⁵ a ⁵ n r i ŋ,a + Σ + m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang226,abstract_entry,1.pl.excl.2.pl.nfut.neg,a-Σ-ín maa-ng,a-Σ-ín maa-ng,a+Σ+ín+maa+ng,a Σ i ⁵ n m aa ŋ,a + Σ + i ⁵ n + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang227,abstract_entry,1.sg.3.sg.nfut.neg,Σ m-nú,Σ m-nú,Σ+m+nú,Σ m n u ⁵,Σ + m + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang228,abstract_entry,1.sg.3.sg.nfut.neg,Σ maa-ng,Σ maa-ng,Σ+maa+ng,Σ m aa ŋ,Σ + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang229,abstract_entry,1.sg.3.pl.nfut.neg,Σ-lám m-nú,Σ-lám m-nú,Σ+lám+m+nú,Σ l a ⁵ m m n u ⁵,Σ + l a ⁵ m + m + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang230,abstract_entry,1.sg.3.pl.nfut.neg,Σ-lám maa-ng,Σ-lám maa-ng,Σ+lám+maa+ng,Σ l a ⁵ m m aa ŋ,Σ + l a ⁵ m + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang231,abstract_entry,1.pl.excl.3.sg.nfut.neg,Σ má-án-nú,Σ má-án-nú,Σ+má+án+nú,Σ m a ⁵ a ⁵ n n u ⁵,Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang232,abstract_entry,1.pl.excl.3.sg.nfut.neg,Σ má-án-ri-ng,Σ má-án-ri-ng,Σ+má+án+ri+ng,Σ m a ⁵ a ⁵ n r i ŋ,Σ + m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang233,abstract_entry,1.pl.excl.3.sg.nfut.neg,Σ máá-ng,Σ máá-ng,Σ+máá+ng,Σ m aa ⁵ ŋ,Σ + m aa ⁵ + ŋ,unspecified,,optional_plural,Chelliah2019Lamkang,15,lamkang
+lamkang234,abstract_entry,1.pl.incl.3.sg.nfut.neg,Σ má-án-min-nú,Σ má-án-min-nú,Σ+má+án+min+nú,Σ m a ⁵ a ⁵ n m i n n u ⁵,Σ + m a ⁵ + a ⁵ n + m i n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang235,abstract_entry,1.pl.incl.3.sg.nfut.neg,Σ m-min-nú,Σ m-min-nú,Σ+m+min+nú,Σ m m i n n u ⁵,Σ + m + m i n + n u ⁵,unspecified,pfv,optional_plural,Chelliah2019Lamkang,17,lamkang
+lamkang236,abstract_entry,1.pl.incl.3.sg.nfut.neg,Σ má-án-nú,Σ má-án-nú,Σ+má+án+nú,Σ m a ⁵ a ⁵ n n u ⁵,Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang237,abstract_entry,1.pl.incl.3.sg.nfut.neg,Σ máá-ng,Σ máá-ng,Σ+máá+ng,Σ m aa ⁵ ŋ,Σ + m aa ⁵ + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang238,abstract_entry,1.pl.incl.3.sg.nfut.neg,t-Σ m-dá,t-Σ m-dá,t+Σ+m+dá,t Σ m d a ⁵,t + Σ + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang239,abstract_entry,1.pl.incl.3.sg.nfut.neg,Σ-min m-éh,Σ-min m-éh,Σ+min+m+éh,Σ m i n m e ⁵,Σ + m i n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang240,abstract_entry,1.pl.incl.3.sg.nfut.neg,t-Σ m-éh,t-Σ m-éh,t+Σ+m+éh,t Σ m e ⁵,t + Σ + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang241,abstract_entry,1.pl.incl.3.sg.nfut.neg,Σ m-min,Σ m-min,Σ+m+min,Σ m m i n,Σ + m + m i n,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang242,abstract_entry,1.pl.excl.3.pl.nfut.neg,Σ má-án-nú,Σ má-án-nú,Σ+má+án+nú,Σ m a ⁵ a ⁵ n n u ⁵,Σ + m a ⁵ + a ⁵ n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang243,abstract_entry,1.pl.excl.3.pl.nfut.neg,Σ má-án-ri-ng,Σ má-án-ri-ng,Σ+má+án+ri+ng,Σ m a ⁵ a ⁵ n r i ŋ,Σ + m a ⁵ + a ⁵ n + r i + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang244,abstract_entry,1.pl.excl.3.pl.nfut.neg,Σ-lam maa-ng,Σ-lam maa-ng,Σ+lam+maa+ng,Σ l a m m aa ŋ,Σ + l a m + m aa + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang245,abstract_entry,1.pl.excl.3.pl.nfut.neg,Σ má-án-min,Σ má-án-min,Σ+má+án+min,Σ m a ⁵ a ⁵ n m i n,Σ + m a ⁵ + a ⁵ n + m i n,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang246,abstract_entry,1.pl.incl.3.pl.nfut.neg,Σ-lám m-min-nú,Σ-lám m-min-nú,Σ+lám+m+min+nú,Σ l a ⁵ m m m i n n u ⁵,Σ + l a ⁵ m + m + m i n + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang247,abstract_entry,1.pl.incl.3.pl.nfut.neg,Σ-ín máá-ng,Σ-ín máá-ng,Σ+ín+máá+ng,Σ i ⁵ n m aa ⁵ ŋ,Σ + i ⁵ n + m aa ⁵ + ŋ,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang248,abstract_entry,1.pl.incl.3.pl.nfut.neg,Σ-lám-min m-éh,Σ-lám-min m-éh,Σ+lám+min+m+éh,Σ l a ⁵ m m i n m e ⁵,Σ + l a ⁵ m + m i n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang249,abstract_entry,1.pl.incl.3.pl.nfut.neg,t-Σ-in m-éh,t-Σ-in m-éh,t+Σ+in+m+éh,t Σ i n m e ⁵,t + Σ + i n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang250,iip,2.sg.nfut.neg,ííp m-tínú,Σ m-tínú,Σ+m+tí+nú,Σ m t i ⁵ n u ⁵,Σ + m + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang251,iip,2.sg.nfut.neg,ííp m-tíh,Σ m-tíh,Σ+m+tíh,Σ m t i ⁵,Σ + m + t i ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang252,iip,2.pl.nfut.neg,ííp má-án-tínú,Σ má-án-tínú,Σ+má+án+tí+nú,Σ m a ⁵ a ⁵ n t i ⁵ n u ⁵,Σ + m a ⁵ + a ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang253,iip,2.pl.nfut.neg,ííp má-án-tíh,Σ má-án-tíh,Σ+má+án+tíh,Σ m a ⁵ a ⁵ n t i ⁵,Σ + m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang254,abstract_entry,2.sg.1.sg.nfut.neg,m-Σ m-tínú,m-Σ m-tínú,m+Σ+m+tí+nú,m Σ m t i ⁵ n u ⁵,m + Σ + m + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang255,abstract_entry,2.sg.1.sg.nfut.neg,m-Σ m-tíh,m-Σ m-tíh,m+Σ+m+tíh,m Σ m t i ⁵,m + Σ + m + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang256,abstract_entry,2.sg.1.pl.excl.nfut.neg,m-Σ má-án-tínú,m-Σ má-án-tínú,m+Σ+má+án+tí+nú,m Σ m a ⁵ a ⁵ n t i ⁵ n u ⁵,m + Σ + m a ⁵ + a ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Khullar2025Lamkang,nopage,lamkang
+lamkang257,abstract_entry,2.sg.1.pl.excl.nfut.neg,m-Σ má-án-tíh,m-Σ má-án-tíh,m+Σ+má+án+tíh,m Σ m a ⁵ a ⁵ n t i ⁵,m + Σ + m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang258,abstract_entry,2.pl.1.sg.nfut.neg,m-Σ má-án-tínú,m-Σ má-án-tínú,m+Σ+má+án+tí+nú,m Σ m a ⁵ a ⁵ n t i ⁵ n u ⁵,m + Σ + m a ⁵ + a ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang259,abstract_entry,2.pl.1.sg.nfut.neg,m-Σ má-án-tíh,m-Σ má-án-tíh,m+Σ+má+án+tíh,m Σ m a ⁵ a ⁵ n t i ⁵,m + Σ + m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang260,abstract_entry,2.pl.1.pl.excl.nfut.neg,m-Σ má-án-tínú,m-Σ má-án-tínú,m+Σ+má+án+tí+nú,m Σ m a ⁵ a ⁵ n t i ⁵ n u ⁵,m + Σ + m a ⁵ + a ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Khullar2025Lamkang,nopage,lamkang
+lamkang261,abstract_entry,2.pl.1.pl.excl.nfut.neg,m-Σ má-án-tíh,m-Σ má-án-tíh,m+Σ+má+án+tíh,m Σ m a ⁵ a ⁵ n t i ⁵,m + Σ + m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang262,abstract_entry,2.sg.3.sg.nfut.neg,Σ m-tínú,Σ m-tínú,Σ+m+tí+nú,Σ m t i ⁵ n u ⁵,Σ + m + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang263,abstract_entry,2.sg.3.sg.nfut.neg,Σ m-tíh,Σ m-tíh,Σ+m+tíh,Σ m t i ⁵,Σ + m + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang264,abstract_entry,2.sg.3.pl.nfut.neg,Σ-lám m-tínú,Σ-lám m-tínú,Σ+lám+m+tí+nú,Σ l a ⁵ m m t i ⁵ n u ⁵,Σ + l a ⁵ m + m + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang265,abstract_entry,2.sg.3.pl.nfut.neg,Σ-lám m-tíh,Σ-lám m-tíh,Σ+lám+m+tíh,Σ l a ⁵ m m t i ⁵,Σ + l a ⁵ m + m + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang266,abstract_entry,2.pl.3.sg.nfut.neg,Σ má-án-tínú,Σ má-án-tínú,Σ+má+án+tí+nú,Σ m a ⁵ a ⁵ n t i ⁵ n u ⁵,Σ + m a ⁵ + a ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang267,abstract_entry,2.pl.3.sg.nfut.neg,Σ má-án-tíh,Σ má-án-tíh,Σ+má+án+tíh,Σ m a ⁵ a ⁵ n t i ⁵,Σ + m a ⁵ + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang268,abstract_entry,2.pl.3.pl.nfut.neg,Σ má-án-tínú,Σ má-án-tínú,Σ+má+án+tí+nú,Σ m a ⁵ a ⁵ n t i ⁵ n u ⁵,Σ + m a ⁵ + a ⁵ n + t i ⁵ + n u ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang269,abstract_entry,2.pl.3.pl.nfut.neg,Σ ma-án-tíh,Σ ma-án-tíh,Σ+ma+án+tíh,Σ m a a ⁵ n t i ⁵,Σ + m a + a ⁵ n + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang270,abstract_entry,2.pl.3.pl.nfut.neg,Σ-ín m-tíh,Σ-ín m-tíh,Σ+ín+m+tíh,Σ i ⁵ n m t i ⁵,Σ + i ⁵ n + m + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang271,abstract_entry,2.pl.3.pl.nfut.neg,Σ-lám m-tíh,Σ-lám m-tíh,Σ+lám+m+tíh,Σ l a ⁵ m m t i ⁵,Σ + l a ⁵ m + m + t i ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang272,iip,3.sg.nfut.neg,ííp m-dá,Σ m-dá,Σ+m+dá,Σ m d a ⁵,Σ + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang273,iip,3.sg.nfut.neg,ííp m-éh,Σ m-éh,Σ+m+éh,Σ m e ⁵,Σ + m + e ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang274,iip,3.pl.nfut.neg,ííp-lám m-dá,Σ-lám m-dá,Σ+lám+m+dá,Σ l a ⁵ m m d a ⁵,Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,10,lamkang
+lamkang275,iip,3.pl.nfut.neg,ííp-lám m-éh,Σ-lám m-éh,Σ+lám+m+éh,Σ l a ⁵ m m e ⁵,Σ + l a ⁵ m + m + e ⁵,unspecified,,,Chelliah2019Lamkang,10,lamkang
+lamkang276,abstract_entry,3.sg.1.sg.nfut.neg,m-Σ m-dá,m-Σ m-dá,m+Σ+m+dá,m Σ m d a ⁵,m + Σ + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang277,abstract_entry,3.sg.1.sg.nfut.neg,m-Σ m-éh,m-Σ m-éh,m+Σ+m+éh,m Σ m e ⁵,m + Σ + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang278,abstract_entry,3.sg.1.pl.excl.nfut.neg,m-Σ má-án-dá,m-Σ má-án-dá,m+Σ+má+án+dá,m Σ m a ⁵ a ⁵ n d a ⁵,m + Σ + m a ⁵ + a ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang279,abstract_entry,3.sg.1.pl.excl.nfut.neg,m-Σ-ín m-dá,m-Σ-ín m-dá,m+Σ+ín+m+dá,m Σ i ⁵ n m d a ⁵,m + Σ + i ⁵ n + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang280,abstract_entry,3.sg.1.pl.excl.nfut.neg,m-Σ-ín m-éh,m-Σ-ín m-éh,m+Σ+ín+m+éh,m Σ i ⁵ n m e ⁵,m + Σ + i ⁵ n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang281,abstract_entry,3.sg.1.pl.incl.nfut.neg,mi-Σ má-án-dá,mi-Σ má-án-dá,mi+Σ+má+án+dá,m i Σ m a ⁵ a ⁵ n d a ⁵,m i + Σ + m a ⁵ + a ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang282,abstract_entry,3.sg.1.pl.incl.nfut.neg,mi-Σ-ín m-éh,mi-Σ-ín m-éh,mi+Σ+ín+m+éh,m i Σ i ⁵ n m e ⁵,m i + Σ + i ⁵ n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang283,abstract_entry,3.pl.1.sg.nfut.neg,m-Σ-lám m-dá,m-Σ-lám m-dá,m+Σ+lám+m+dá,m Σ l a ⁵ m m d a ⁵,m + Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang284,abstract_entry,3.pl.1.sg.nfut.neg,m-Σ-lám m-éh,m-Σ-lám m-éh,m+Σ+lám+m+éh,m Σ l a ⁵ m m e ⁵,m + Σ + l a ⁵ m + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang285,abstract_entry,3.pl.1.pl.excl.nfut.neg,m-Σ má-án-dá,m-Σ má-án-dá,m+Σ+má+án+dá,m Σ m a ⁵ a ⁵ n d a ⁵,m + Σ + m a ⁵ + a ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang286,abstract_entry,3.pl.1.pl.excl.nfut.neg,m-Σ-ín m-éh,m-Σ-ín m-éh,m+Σ+ín+m+éh,m Σ i ⁵ n m e ⁵,m + Σ + i ⁵ n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang287,abstract_entry,3.pl.1.pl.incl.nfut.neg,mi-Σ má-án-dá,mi-Σ má-án-dá,mi+Σ+má+án+dá,m i Σ m a ⁵ a ⁵ n d a ⁵,m i + Σ + m a ⁵ + a ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang288,abstract_entry,3.pl.1.pl.incl.nfut.neg,mi-Σ-ín m-éh,mi-Σ-ín m-éh,mi+Σ+ín+m+éh,m i Σ i ⁵ n m e ⁵,m i + Σ + i ⁵ n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang289,abstract_entry,3.sg.2.sg.nfut.neg,a-Σ m-dá,a-Σ m-dá,a+Σ+m+dá,a Σ m d a ⁵,a + Σ + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang290,abstract_entry,3.sg.2.sg.nfut.neg,a-Σ m-éh,a-Σ m-éh,a+Σ+m+éh,a Σ m e ⁵,a + Σ + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang291,abstract_entry,3.sg.2.pl.nfut.neg,a-Σ má-án-dá,a-Σ má-án-dá,a+Σ+má+án+dá,a Σ m a ⁵ a ⁵ n d a ⁵,a + Σ + m a ⁵ + a ⁵ n + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang292,abstract_entry,3.sg.2.pl.nfut.neg,a-Σ-ín má-dá,a-Σ-ín má-dá,a+Σ+ín+má+dá,a Σ i ⁵ n m a ⁵ d a ⁵,a + Σ + i ⁵ n + m a ⁵ + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang293,abstract_entry,3.sg.2.pl.nfut.neg,a-Σ-ín m-éh,a-Σ-ín m-éh,a+Σ+ín+m+éh,a Σ i ⁵ n m e ⁵,a + Σ + i ⁵ n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang294,abstract_entry,3.pl.2.sg.nfut.neg,a-Σ-lám m-dá,a-Σ-lám m-dá,a+Σ+lám+m+dá,a Σ l a ⁵ m m d a ⁵,a + Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang295,abstract_entry,3.pl.2.sg.nfut.neg,a-Σ-lám m-éh,a-Σ-lám m-éh,a+Σ+lám+m+éh,a Σ l a ⁵ m m e ⁵,a + Σ + l a ⁵ m + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang296,abstract_entry,3.pl.2.pl.nfut.neg,a-Σ-lám m-dá,a-Σ-lám m-dá,a+Σ+lám+m+dá,a Σ l a ⁵ m m d a ⁵,a + Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang297,abstract_entry,3.pl.2.pl.nfut.neg,a-Σ-ín m-éh,a-Σ-ín m-éh,a+Σ+ín+m+éh,a Σ i ⁵ n m e ⁵,a + Σ + i ⁵ n + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang298,abstract_entry,3.sg.3.sg.nfut.neg,Σ m-dá,Σ m-dá,Σ+m+dá,Σ m d a ⁵,Σ + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang299,abstract_entry,3.sg.3.sg.nfut.neg,Σ m-éh,Σ m-éh,Σ+m+éh,Σ m e ⁵,Σ + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang300,abstract_entry,3.sg.3.pl.nfut.neg,Σ-lám m-dá,Σ-lám m-dá,Σ+lám+m+dá,Σ l a ⁵ m m d a ⁵,Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang301,abstract_entry,3.sg.3.pl.nfut.neg,Σ-lám m-éh,Σ-lám m-éh,Σ+lám+m+éh,Σ l a ⁵ m m e ⁵,Σ + l a ⁵ m + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang302,abstract_entry,3.pl.3.sg.nfut.neg,Σ-lám m-dá,Σ-lám m-dá,Σ+lám+m+dá,Σ l a ⁵ m m d a ⁵,Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang303,abstract_entry,3.pl.3.sg.nfut.neg,Σ-lám m-éh,Σ-lám m-éh,Σ+lám+m+éh,Σ l a ⁵ m m e ⁵,Σ + l a ⁵ m + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
+lamkang304,abstract_entry,3.pl.3.pl.nfut.neg,Σ-lám m-dá,Σ-lám m-dá,Σ+lám+m+dá,Σ l a ⁵ m m d a ⁵,Σ + l a ⁵ m + m + d a ⁵,unspecified,pfv,,Chelliah2019Lamkang,17,lamkang
+lamkang305,abstract_entry,3.pl.3.pl.nfut.neg,Σ-lám m-éh,Σ-lám m-éh,Σ+lám+m+éh,Σ l a ⁵ m m e ⁵,Σ + l a ⁵ m + m + e ⁵,unspecified,,,Chelliah2019Lamkang,15,lamkang
